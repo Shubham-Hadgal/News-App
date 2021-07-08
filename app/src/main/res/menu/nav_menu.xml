@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/general"
+        app:showAsAction="never"
+        android:title="@string/general" />
+
+    <item android:id="@+id/science"
+        app:showAsAction="never"
+        android:title="@string/science" />
+
+    <item android:id="@+id/business"
+        app:showAsAction="never"
+        android:title="@string/business" />
+
+    <item android:id="@+id/entertainment"
+        app:showAsAction="never"
+        android:title="@string/entertainment" />
+
+    <item android:id="@+id/technology"
+        app:showAsAction="never"
+        android:title="@string/technology" />
+
+    <item android:id="@+id/health"
+        app:showAsAction="never"
+        android:title="@string/health" />
+
+    <item android:id="@+id/sports"
+        app:showAsAction="never"
+        android:title="@string/sports" />
+
+    <item android:id="@+id/refresh"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_refresh"
+        android:title="@string/refresh" />
+
+</menu>
