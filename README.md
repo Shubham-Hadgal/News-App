@@ -22,6 +22,10 @@ The users can switch between the News Categories that they are interested in..
 |Health|Shows all the news related to Health|
 |Sports|Shows all the news related to Sports|
 
+# Usage
+
+User can find all the news in One place with different news categories just in one click
+
 
 # Screenshots of the App
 
