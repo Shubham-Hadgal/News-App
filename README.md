@@ -1,8 +1,6 @@
 # News-App
 
-# About News App
-
-News app is the Android App that queries the latest news data from the internet and displays it on the screen.
+This App queries the latest news data from the internet and displays it on the screen.
 The users can switch between the News Categories that they are interested in..
 
 
